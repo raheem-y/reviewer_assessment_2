@@ -4,8 +4,8 @@ nums = [5, 1, 9, 2, 9, 3]
 
 A)
 sorted_nums = sorted(nums)
-\nprint(sorted_nums)
+print(sorted_nums)
 
 B)
-nums.sort()\n
+nums.sort()
 print(nums)
